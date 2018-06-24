@@ -40,16 +40,16 @@
 ## Codepen
 [AhmedHelalAhmed](https://codepen.io/AhmedHelalAhmed)
 
-## sololearn
+## Sololearn
 [AhmedHelalAhmed](https://www.sololearn.com/Profile/2476537)
 
-## stackoverflow
+## Stackoverflow
 [AhmedHelalAhmed](https://www.quora.com/profile/Ahmed-Helal-12)
 
-## quora
+## Quora
 [AhmedHelalAhmed](https://stackoverflow.com/users/8844879/ahmed-helal-ahmed)
 
-## freecodecamp
+## Freecodecamp
 [AhmedHelalAhmed](https://www.freecodecamp.org/ahmedhelalahmed)
 
 # My Emails
