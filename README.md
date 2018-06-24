@@ -38,6 +38,16 @@
 ## Codepen
 [AhmedHelalAhmed](https://codepen.io/AhmedHelalAhmed)
 
+## sololearn
+[AhmedHelalAhmed](https://www.sololearn.com/Profile/2476537)
+
+## stackoverflow
+[AhmedHelalAhmed](https://www.quora.com/profile/Ahmed-Helal-12)
+
+## quora
+[AhmedHelalAhmed](https://stackoverflow.com/users/8844879/ahmed-helal-ahmed)
+
+
 # My Emails
 
 ## Gmail
