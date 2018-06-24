@@ -21,7 +21,7 @@
 ## Ruby on rails
 [MOOC](https://github.com/AhmedHelalAhmed/Ruby-On-Rails-Project)
 
-## RLaravel
+## Laravel
 [ITI_Graduation_Project](https://github.com/AhmedHelalAhmed/ITI_Graduation_Project)
 
 # My Accounts
