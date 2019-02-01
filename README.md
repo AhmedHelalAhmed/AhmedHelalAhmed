@@ -42,6 +42,7 @@
 
 ## Sololearn
 [AhmedHelalAhmed](https://www.sololearn.com/Profile/2476537)
+[AhmedHelalAhmed](https://www.sololearn.com/Profile/5746429)
 
 ## Stackoverflow
 [AhmedHelalAhmed](https://www.quora.com/profile/Ahmed-Helal-12)
