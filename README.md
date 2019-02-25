@@ -24,6 +24,7 @@
 ## Laravel
 [ITI_Graduation_Project](https://github.com/AhmedHelalAhmed/ITI_Graduation_Project)
 [blog-task](https://github.com/AhmedHelalAhmed/blog-task)
+[Laravel-Socket-IO-Redis-Event-Broadcast](https://github.com/AhmedHelalAhmed/Laravel-Socket-IO-Redis-Event-Broadcast)
 
 
 
