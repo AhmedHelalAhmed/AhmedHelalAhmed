@@ -3,29 +3,27 @@
 ## JavaScript and jQuery 
 [Game-Of-Life](https://github.com/AhmedHelalAhmed/Game-Of-Life)
 
-## php native
+## PHP native
 [ecommerce mobile](https://github.com/AhmedHelalAhmed/PHP-Project)
 
-## XML and native php
+## XML and native PHP
 [XML-Project](https://github.com/AhmedHelalAhmed/XML-Project)
 
-## Laravel ( php )
-[Hotel system](https://github.com/AhmedHelalAhmed/Laravel-Project)
 
-## python - django 
+## Python - Django 
 [Blog](https://github.com/AhmedHelalAhmed/python_project)
+<br/>
+[Django-Task](https://github.com/AhmedHelalAhmed/Django-Task)
 
 ## Bash
 [DBMS](https://github.com/AhmedHelalAhmed/Bash-Project)
 <br/>
 [Helper-Bash-Scripts](https://github.com/AhmedHelalAhmed/Helper-Bash-Scripts)
 
-
-
 ## Ruby on rails
 [MOOC](https://github.com/AhmedHelalAhmed/Ruby-On-Rails-Project)
 
-## Laravel
+## Laravel ( php )
 [Hotel system](https://github.com/AhmedHelalAhmed/Laravel-Project)
 <br/>
 [ITI_Graduation_Project](https://github.com/AhmedHelalAhmed/ITI_Graduation_Project)
@@ -49,9 +47,6 @@
 ## Realtime
 [realtime-chat-application-firebase](https://github.com/AhmedHelalAhmed/realtime-chat-application-firebase)
 
-
-## Django 
-[Django-Task](https://github.com/AhmedHelalAhmed/Django-Task)
 
 
 
