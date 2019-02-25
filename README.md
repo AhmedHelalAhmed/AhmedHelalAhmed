@@ -17,14 +17,41 @@
 
 ## Bash
 [DBMS](https://github.com/AhmedHelalAhmed/Bash-Project)
+<br/>
+[Helper-Bash-Scripts](https://github.com/AhmedHelalAhmed/Helper-Bash-Scripts)
+
+
 
 ## Ruby on rails
 [MOOC](https://github.com/AhmedHelalAhmed/Ruby-On-Rails-Project)
 
 ## Laravel
+[Hotel system](https://github.com/AhmedHelalAhmed/Laravel-Project)
+<br/>
 [ITI_Graduation_Project](https://github.com/AhmedHelalAhmed/ITI_Graduation_Project)
+<br/>
 [blog-task](https://github.com/AhmedHelalAhmed/blog-task)
+<br/>
 [Laravel-Socket-IO-Redis-Event-Broadcast](https://github.com/AhmedHelalAhmed/Laravel-Socket-IO-Redis-Event-Broadcast)
+<br/>
+[different-user-roles-blog-system](https://github.com/AhmedHelalAhmed/different-user-roles-blog-system)
+<br/>
+[Elasticsearch-Course](https://github.com/AhmedHelalAhmed/Elasticsearch-Course)
+<br/>
+[todo-task](https://github.com/AhmedHelalAhmed/todo-task)
+<br/>
+[Unit-Test-Build-A-Forum-with-Laravel-and-TDD](https://github.com/AhmedHelalAhmed/Unit-Test-Build-A-Forum-with-Laravel-and-TDD)
+
+
+## Vuejs
+[todo-task](https://github.com/AhmedHelalAhmed/todo-task)
+
+## Realtime
+[realtime-chat-application-firebase](https://github.com/AhmedHelalAhmed/realtime-chat-application-firebase)
+
+
+## Django 
+[Django-Task](https://github.com/AhmedHelalAhmed/Django-Task)
 
 
 
@@ -46,6 +73,7 @@
 
 ## Sololearn
 [AhmedHelalAhmed](https://www.sololearn.com/Profile/2476537)
+<br/>
 [AhmedHelalAhmed](https://www.sololearn.com/Profile/5746429)
 
 ## Stackoverflow
