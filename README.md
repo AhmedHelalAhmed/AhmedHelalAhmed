@@ -6,9 +6,6 @@
 ## PHP native
 [ecommerce mobile](https://github.com/AhmedHelalAhmed/PHP-Project)
 
-## XML and native PHP
-[XML-Project](https://github.com/AhmedHelalAhmed/XML-Project)
-
 
 ## Python - Django 
 [Blog](https://github.com/AhmedHelalAhmed/python_project)
