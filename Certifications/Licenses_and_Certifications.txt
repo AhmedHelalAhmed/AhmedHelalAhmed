@@ -1,0 +1,225 @@
+Name:
+Building Database Applications in PHP
+Issuing Organization:
+Coursera
+Issue Date:
+August 2020
+Expiration Date:
+This certification does not expire
+Credential ID:
+YXBBNBZGLXS3
+Credential URL:
+https://www.coursera.org/account/accomplishments/certificate/YXBBNBZGLXS3
+
+==============================================
+
+Name:
+Introduction to Structured Query Language (SQL)
+Issuing Organization:
+Coursera
+Issue Date:
+July 2020
+Expiration Date:
+This certification does not expire
+Credential ID:
+H8F6YAK5JYZB
+Credential URL:
+https://www.coursera.org/account/accomplishments/certificate/H8F6YAK5JYZB
+
+==============================================
+
+Name:
+Building Web Applications in PHP
+Issuing Organization:
+Coursera
+Issue Date:
+July 2020
+Expiration Date:
+This certification does not expire
+Credential ID:
+86UXTMFDMDFQ
+Credential URL:
+https://www.coursera.org/account/accomplishments/certificate/86UXTMFDMDFQ
+
+==============================================
+
+Name:
+Laravel Best Practices & Design Patterns
+Issuing Organization:
+Udemy
+Issue Date:
+December 2019
+Expiration Date:
+This certification does not expire
+Credential ID:
+UC-6YNEVY87
+Credential URL:
+https://www.udemy.com/certificate/UC-6YNEVY87
+
+==============================================
+
+Name:
+Bootstrap 4 Website Built from scratch in 1 hour
+Issuing Organization:
+Udemy
+Issue Date:
+May 2018
+Expiration Date:
+This certification does not expire
+Credential ID:
+UC-IM8DHBE6
+Credential URL:
+https://www.udemy.com/certificate/UC-IM8DHBE6/
+
+==============================================
+
+Name:
+Pointers in C programming
+Issuing Organization:
+Udemy
+Issue Date:
+November 2017
+Expiration Date:
+This certification does not expire
+Credential ID:
+UC-O21X3LD2
+Credential URL:
+https://www.udemy.com/certificate/UC-O21X3LD2/
+
+
+==============================================
+
+Name:
+The Complete C Programming Tutorial
+Issuing Organization:
+Udemy
+Issue Date:
+November 2017
+Expiration Date:
+This certification does not expire
+Credential ID:
+UC-P0Q7TR2L
+Credential URL:
+https://www.udemy.com/certificate/UC-P0Q7TR2L/
+
+==============================================
+
+Name:
+C++ Tutorial
+Issuing Organization:
+SoloLearn
+Issue Date:
+Jannuary 2019
+Expiration Date:
+This certification does not expire
+Credential ID:
+1051-5746429
+Credential URL:
+https://www.sololearn.com/Certificate/1051-5746429/pdf
+
+==============================================
+
+Name:
+JavaScript Tutorial
+Issuing Organization:
+SoloLearn
+Issue Date:
+Jannuary 2019
+Expiration Date:
+This certification does not expire
+Credential ID:
+1024-5746429
+Credential URL:
+https://www.sololearn.com/Certificate/1024-5746429/pdf
+
+==============================================
+
+Name:
+PHP Tutorial
+Issuing Organization:
+SoloLearn
+Issue Date:
+Jannuary 2019
+Expiration Date:
+This certification does not expire
+Credential ID:
+1059-5746429
+Credential URL:
+https://www.sololearn.com/Certificate/1059-5746429/pdf
+
+==============================================
+
+Name:
+SQL Fundamentals
+Issuing Organization:
+SoloLearn
+Issue Date:
+Jannuary 2019
+Expiration Date:
+This certification does not expire
+Credential ID:
+1060-5746429
+Credential URL:
+https://www.sololearn.com/Certificate/1060-5746429/pdf
+
+==============================================
+
+Name:
+jQuery Tutorial
+Issuing Organization:
+SoloLearn
+Issue Date:
+Jannuary 2019
+Expiration Date:
+This certification does not expire
+Credential ID:
+1082-5746429
+Credential URL:
+https://www.sololearn.com/Certificate/1082-5746429/pdf
+
+==============================================
+
+Name:
+CSS Fundamentals
+Issuing Organization:
+SoloLearn
+Issue Date:
+March 2019
+Expiration Date:
+This certification does not expire
+Credential ID:
+1023-2476537
+Credential URL:
+https://www.sololearn.com/Certificate/1023-2476537/pdf
+
+==============================================
+
+Name:
+HTML Fundamentals
+Issuing Organization:
+SoloLearn
+Issue Date:
+November 2016
+Expiration Date:
+This certification does not expire
+Credential ID:
+1014-2476537
+Credential URL:
+https://www.sololearn.com/Certificate/1014-2476537/pdf
+
+==============================================
+
+Name:
+Java Tutorial
+Issuing Organization:
+SoloLearn
+Issue Date:
+October 2016
+Expiration Date:
+This certification does not expire
+Credential ID:
+1068-2476537
+Credential URL:
+https://www.sololearn.com/Certificate/1068-2476537/pdf
+
+==============================================
