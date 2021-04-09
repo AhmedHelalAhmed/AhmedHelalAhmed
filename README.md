@@ -88,7 +88,7 @@
 [Ahmed.Helal.online](mailto:Ahmed.Helal.online@gmail.com) 
 
 # My CV
-[Ahmed Helal Ahmed](Ahmed-Helal-Ahmed.pdf)
+[Ahmed Helal Ahmed](Ahmed%20Helal%20Ahmed.pdf)
 
 
 
