@@ -48,32 +48,32 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/ahmedhelalahmed/) for a
 
 - Python - Django 
 [Blog](https://github.com/AhmedHelalAhmed/python_project)
-<br/>
+
 [Django-Task](https://github.com/AhmedHelalAhmed/Django-Task)
 
 - Bash
-[DBMS](https://github.com/AhmedHelalAhmed/Bash-Project)
-<br/>
+[DBMS](https://github.com/AhmedHelalAhmed/Bash-Project)  
+
 [Helper-Bash-Scripts](https://github.com/AhmedHelalAhmed/Helper-Bash-Scripts)
 
 - Ruby on rails
 [MOOC](https://github.com/AhmedHelalAhmed/Ruby-On-Rails-Project)
 
 - Laravel ( php )
-[Hotel system](https://github.com/AhmedHelalAhmed/Laravel-Project)
-<br/>
-[ITI_Graduation_Project](https://github.com/AhmedHelalAhmed/ITI_Graduation_Project)
-<br/>
-[blog-task](https://github.com/AhmedHelalAhmed/blog-task)
-<br/>
-[Laravel-Socket-IO-Redis-Event-Broadcast](https://github.com/AhmedHelalAhmed/Laravel-Socket-IO-Redis-Event-Broadcast)
-<br/>
-[different-user-roles-blog-system](https://github.com/AhmedHelalAhmed/different-user-roles-blog-system)
-<br/>
-[Elasticsearch-Course](https://github.com/AhmedHelalAhmed/Elasticsearch-Course)
-<br/>
-[todo-task](https://github.com/AhmedHelalAhmed/todo-task)
-<br/>
+[Hotel system](https://github.com/AhmedHelalAhmed/Laravel-Project) 
+
+[ITI_Graduation_Project](https://github.com/AhmedHelalAhmed/ITI_Graduation_Project) 
+
+[blog-task](https://github.com/AhmedHelalAhmed/blog-task) 
+
+[Laravel-Socket-IO-Redis-Event-Broadcast](https://github.com/AhmedHelalAhmed/Laravel-Socket-IO-Redis-Event-Broadcast) 
+
+[different-user-roles-blog-system](https://github.com/AhmedHelalAhmed/different-user-roles-blog-system) 
+
+[Elasticsearch-Course](https://github.com/AhmedHelalAhmed/Elasticsearch-Course) 
+
+[todo-task](https://github.com/AhmedHelalAhmed/todo-task) 
+
 [Unit-Test-Build-A-Forum-with-Laravel-and-TDD](https://github.com/AhmedHelalAhmed/Unit-Test-Build-A-Forum-with-Laravel-and-TDD)
 
 
@@ -96,7 +96,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/ahmedhelalahmed/) for a
 
 - Facebook
 [A.Helal.A.A](https://www.facebook.com/A.Helal.A.A)
-<br/>
+
 [for.ahmed.helal](https://www.facebook.com/for.ahmed.helal)
 
 - Codepen
@@ -104,7 +104,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/ahmedhelalahmed/) for a
 
 - Sololearn
 [AhmedHelalAhmed](https://www.sololearn.com/Profile/2476537)
-<br/>
+
 [AhmedHelalAhmed](https://www.sololearn.com/Profile/5746429)
 
 - Stackoverflow
@@ -123,7 +123,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/ahmedhelalahmed/) for a
 
 - Gmail
 [Ahmed.Helal.Ahmed.Ali](mailto:Ahmed.Helal.Ahmed.Ali@gmail.com)
-<br/>
+
 [Ahmed.Helal.online](mailto:Ahmed.Helal.online@gmail.com) 
 
 ### My CV
