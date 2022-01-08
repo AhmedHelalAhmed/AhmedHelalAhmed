@@ -22,6 +22,8 @@ Featured Projects: [VôM](https://getvom.com), [Prexle](https://prexle.com/en)
 **Software Engineer** \
 [**Eamtech**](https://eamtech.com) • Full-time/Part-time \
 Languages & Technologies: `Laravel`, `Vuejs`, `Jquery`, `JavaScript`\
+Featured Projects: [Falconviz cloud System](http://falconvizcloud.com), [Edocs approval system](https://www.kolmofeed.com), [uGuider](https://www.uguider.com)
+
 <br/>
 <br/>
 
@@ -30,6 +32,8 @@ Languages & Technologies: `Laravel`, `Vuejs`, `Jquery`, `JavaScript`\
 **Full Stack Web Developer** \
 [**WIFI Metropolis**](https://wifimetropolis.com) • Full-time \
 Languages & Technologies: `Laravel`, `Vuejs`, \
+Featured Projects: [Coral](https://www.coral.io)
+
 <br/>
 <br/>
 
