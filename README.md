@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm a software engineer at [Ten Degrees](https://tendegrees.sa) with over five years of **Laravel** and **Vuejs** experience at various companies like [Eamtech](https://eamtech.com) and [WIFI Metropolis](https://wifimetropolis.com).
+- 🔭 I'm a software engineer at [Jumia](https://www.jumia.com) with over five years of **Laravel** and **Vuejs** experience at various companies like [Ten Degrees](https://tendegrees.sa), [Eamtech](https://eamtech.com) and [WIFI Metropolis](https://wifimetropolis.com).
 - 🌱 I've made several [contributions to open source](https://github.com/AhmedHelalAhmed), to tools such as [get-SQL-statement-laravel](https://github.com/AhmedHelalAhmed/get-SQL-statement-laravel), [laravel-greeting](https://github.com/AhmedHelalAhmed/laravel-greeting), [laravel-resource-routes-generator](https://github.com/AhmedHelalAhmed/laravel-resource-routes-generator) and [many more](https://github.com/AhmedHelalAhmed).
 
 - 💬 You can get in touch with me by email at [Ahmed.Helal.online@gmail.com](mailto:Ahmed.Helal.online@gmail.com), Twitter ([@for_ahmed_helal](https://twitter.com/for_ahmed_helal)), and [LinkedIn](https://www.linkedin.com/in/ahmedhelalahmed).
@@ -8,6 +8,19 @@
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
+<br/>
+
+**Software Engineer** \
+[**Jumia**](https://www.jumia.com) • Full-time \
+Languages & Technologies: `Laravel`, `PHP`, `JavaScript` 
+- Autonomy interpreting business/technical requirements, designing, implementing and testing high-quality solutions 
+- Work in a team-based development environment with modular code base, peer reviews and pull requests, with disciplined use of source code control and documentation 
+- Constantly aim for quality, scalability, performance, and architecture keeping good practices, security, and compliance in check 
+- Be part of a fast and agile development process 
+- Contribute actively and proactively to optimize applications, processes, and methodologies 
+- Be willful to help peers, being part of a collaborative environment for development, testing, and automation tasks
+
+<br/>
 <br/>
 
 **Senior Software Engineer** \
