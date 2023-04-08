@@ -12,7 +12,7 @@ In the overview below you will find my most recent work experience:
 
 **Senior Software Engineer** \
 [**Square1**](https://www.square1.io) • Full-time \
-Languages & Technologies: `Laravel`, `PHP`, `Vue.js` 
+Languages & Technologies: `Laravel`, `PHP`
 - Developing web applications features and bugfixes using Laravel PHP and Vue.js
 
 
